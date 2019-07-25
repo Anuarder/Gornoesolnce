@@ -1,0 +1,12 @@
+
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Layer_1-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16.43,0 L0,0 L0,10.51 L3.54,10.51 L3.54,15.18 L20,15.18 L20,4.67 L16.43,4.67 L16.43,0 Z M15.26,1.16 L15.26,2.33 L1.2,2.33 L1.2,1.16 L15.26,1.16 Z M1.2,9.34 L1.2,3.5 L15.26,3.5 L15.26,4.67 L3.57,4.67 L3.57,9.34 L1.2,9.34 Z M4.74,14 L4.74,8.17 L18.8,8.17 L18.8,14 L4.74,14 Z M18.8,7 L4.74,7 L4.74,5.84 L18.8,5.84 L18.8,7 Z" id="Shape" fill="#000000"></path>
+        <path d="M5.91,12.85 L10.58,12.85 L10.58,9.34 L5.91,9.34 L5.91,12.85 Z M7.08,10.51 L9.42,10.51 L9.42,11.68 L7.08,11.68 L7.08,10.51 Z" id="Shape" fill="#000000"></path>
+        <polygon id="Shape" fill="#000000" points="11.75 11.68 14.09 11.68 14.09 12.85 11.75 12.85"></polygon>
+        <polygon id="Shape" fill="#000000" points="15.26 11.68 17.63 11.68 17.63 12.85 15.26 12.85"></polygon>
+    </g>
+</svg>
